@@ -8,3 +8,12 @@
     background: rgba(0, 0, 0, 0.6);
     border-radius: 10px;
 }
+
+.carousel-item img {
+    height: 80vh;
+}
+
+.working {
+    background-color: #F4FAFD;
+
+}
